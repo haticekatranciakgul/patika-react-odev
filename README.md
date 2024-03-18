@@ -74,4 +74,8 @@ This section has moved here: [https://facebook.github.io/create-react-app/docs/d
 This section has moved here: [https://facebook.github.io/create-react-app/docs/troubleshooting#npm-run-build-fails-to-minify](https://facebook.github.io/create-react-app/docs/troubleshooting#npm-run-build-fails-to-minify)
 
 
+https://github.com/haticekatranciakgul/patika-react-odev/assets/76768140/ee7cfe97-fe91-4d68-ba99-7d1fdae54956
+
+
+
 
